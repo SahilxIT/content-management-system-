@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Local files
+.DS_Store
+
+# Vercel and Next.js
+.vercel/
+.next/
+
+# Temporary files
+.tmp/
